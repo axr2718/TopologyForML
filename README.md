@@ -55,4 +55,16 @@ We provide case studies from several domains that demonstrate how **Topological 
 
 For further reading, please refer to:
 
-Baris Coskunuzer and Cuneyt Gurcan Akcora. "Topological Methods in Machine Learning: A Tutorial for Practitioners." 2023. [Link to Paper](https://doi.org/10.1145/XXXXXXX.XXXXXXX)
+```bibtex
+@misc{coskunuzer2024tml,
+  author = {Baris Coskunuzer and C{\"u}neyt G{\"u}rcan Ak{\c{c}}ora},
+  title = {Topological Methods in Machine Learning: A Tutorial for Practitioners},
+  year = {2024},
+  eprint = {5833867},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.LG},
+  url = {https://github.com/cakcora/TopologyForML},
+  comment = {54 pages, 35 figures},
+  license = {http://creativecommons.org/licenses/by/4.0/}
+}```
+
