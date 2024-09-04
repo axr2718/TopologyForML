@@ -29,10 +29,10 @@ In this tutorial, we cover two main tools of TML:
 
 ### Entry Points
 There are two main entry points in this repository:
-- The **Persistent Homology** tutorial can be found in the notebook [`persistentHomology.ipynb`](https://github.com/cakcora/TopologyForML/blob/main/code/persistentHomology.ipynb).
+- The **Persistent Homology** tutorial can be found in the notebook [`persistentHomology.ipynb`](https://github.com/cakcora/TopologyForML/blob/main/code/PersistentHomology.ipynb).
 
-- The **Mapper Algorithm** tutorial can be found in the notebook [`mapper.ipynb`](https://github.com/cakcora/TopologyForML/blob/main/code/mapper.ipynb).
-
+- The **Mapper Algorithm** tutorial can be found in the notebook [`mapper.ipynb`](https://github.com/cakcora/TopologyForML/blob/main/code/Mapper.ipynb).
+ 
 ## Setup
 
 To run the examples in this repository, you will need the following Python packages:
