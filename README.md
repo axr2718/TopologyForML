@@ -66,5 +66,5 @@ For further reading, please refer to:
   url = {https://github.com/cakcora/TopologyForML},
   comment = {54 pages, 35 figures},
   license = {http://creativecommons.org/licenses/by/4.0/}
-}```
+}
 
