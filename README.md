@@ -1,0 +1,57 @@
+# Topological Methods in Machine Learning: A Tutorial for Practitioners
+
+**Authors**: [Baris Coskunuzer](https://personal.utdallas.edu/~bxc190014/) (University of Texas at Dallas, USA) , [Cuneyt Gurcan Akcora](akcora.github.io) (University of Central Florida, USA)
+
+This repository contains the code and resources for the tutorial "Topological Methods in Machine Learning: A Tutorial for Practitioners." This tutorial provides an introduction to topological data analysis (TDA) techniques, focusing on **Persistent Homology** and the **Mapper algorithm**, with practical applications in machine learning.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Code Overview](#code-overview)
+- [Persistent Homology](#persistent-homology)
+- [Mapper Algorithm](#mapper-algorithm)
+- [Applications](#applications)
+- [References](#references)
+
+## Introduction
+
+As datasets become increasingly complex, traditional machine learning methods may not capture critical topological structures inherent in the data. Topological Machine Learning (TML) leverages concepts from **algebraic topology** to analyze complex data structures at multiple scales. 
+
+In this tutorial, we cover two main tools of TML:
+- **Persistent Homology**: This technique detects and quantifies clusters, loops, and voids across different scales of data.
+- **Mapper Algorithm**: This algorithm constructs an interpretable graph to summarize high-dimensional data.
+
+### Key Features
+- A hands-on introduction to **Persistent Homology** and **Mapper**.
+- Step-by-step examples for applying these techniques to real-world data.
+- Practical implementations using Python libraries.
+
+### Entry Points
+There are two main entry points in this repository:
+- The **Persistent Homology** tutorial can be found in the notebook [`persistentHomology.ipynb`](https://github.com/cakcora/TopologyForML/code/persistentHomology.ipynb).
+
+- The **Mapper Algorithm** tutorial can be found in the notebook [`mapper.ipynb`](https://github.com/cakcora/TopologyForML/code/mapper.ipynb).
+
+## Setup
+
+To run the examples in this repository, you will need the following Python packages:
+
+```bash
+pip install numpy matplotlib gudhi persim
+```
+
+
+## Applications
+
+We provide case studies from several domains that demonstrate how **Topological Data Analysis (TDA)** techniques can be applied to practical problems, such as:
+
+- **Shape Recognition**: Using **Persistent Homology** to detect shapes in point clouds.
+- **Cancer Diagnosis**: Employing topological techniques to improve cancer diagnosis from histopathological images.
+- **Drug Discovery**: Applying **Multiparameter Persistence** to drug discovery tasks.
+
+## References
+
+For further reading, please refer to:
+
+Baris Coskunuzer and Cuneyt Gurcan Akcora. "Topological Methods in Machine Learning: A Tutorial for Practitioners." 2023. [Link to Paper](https://doi.org/10.1145/XXXXXXX.XXXXXXX)
