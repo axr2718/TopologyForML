@@ -28,6 +28,9 @@ In this tutorial, we cover two main tools of TML:
 - Practical implementations using Python libraries.
 
 ### Entry Points
+If you do not have any experience with Python, first install an IDE such as [PyCharm](https://www.jetbrains.com/pycharm/download/). If you have a university email, you can download and use the professional version of PyCharm. Next, clone this GitHub repo using PyCharm.  Python is used within a project workspace (as was common in the CS in the old days) or in a notebook. We follow the notebook approach because it allows us to see the outputs quickly.
+
+There are a few popular notebooks, such as Jupyter and Google Colab. PyCharm should ask to install the Jupyter notebook plugin within itself once the *.ipynb files are encountered. You can follow the on-screen tips from PyCharm to install the notebook. Once installed:
 There are two main entry points in this repository:
 - The **Persistent Homology** tutorial can be found in the notebook [`persistentHomology.ipynb`](https://github.com/cakcora/TopologyForML/blob/main/code/PersistentHomology.ipynb).
 
@@ -35,11 +38,12 @@ There are two main entry points in this repository:
  
 ## Setup
 
-To run the examples in this repository, you will need the following Python packages:
+Whenever the code uses a Python library, we have provided the command to install the necessary libraries. For example, 
 
 ```bash
-pip install numpy matplotlib gudhi persim
+!pip install numpy matplotlib gudhi persim
 ```
+will install all these libraries. If you know Python well, you can create virtual environments, but we assumed the worst case and used simple pip commands.
 
 
 ## Applications
