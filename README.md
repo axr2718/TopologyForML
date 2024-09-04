@@ -2,13 +2,10 @@
 
 **Authors**: [Baris Coskunuzer](https://personal.utdallas.edu/~bxc190014/) (University of Texas at Dallas, USA) , [Cuneyt Gurcan Akcora](akcora.github.io) (University of Central Florida, USA)
 
-This repository contains the code and resources for the tutorial "Topological Methods in Machine Learning: A Tutorial for Practitioners." This tutorial provides an introduction to topological data analysis (TDA) techniques, focusing on **Persistent Homology** and the **Mapper algorithm**, with practical applications in machine learning.
+This repository contains the code and resources for the tutorial ["Topological Methods in Machine Learning: A Tutorial for Practitioners"](https://github.com/cakcora/TopologyForML/blob/main/tutorial.pdf) This tutorial provides an introduction to topological data analysis (TDA) techniques, focusing on **Persistent Homology** and the **Mapper algorithm**, with practical applications in machine learning.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Code Overview](#code-overview)
 - [Persistent Homology](#persistent-homology)
 - [Mapper Algorithm](#mapper-algorithm)
 - [Applications](#applications)
