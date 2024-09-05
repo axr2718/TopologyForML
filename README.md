@@ -45,7 +45,7 @@ will install all these libraries. If you know Python well, you can create virtua
 
 ## Applications
 
-We provide case studies from several domains that demonstrate how **Topological Data Analysis (TDA)** techniques can be applied to practical problems, such as:
+We provide case studies from several domains that demonstrate how **Topological Data Analysis** techniques can be applied to practical problems, such as:
 
 - **Shape Recognition**: Using **Persistent Homology** to detect shapes in point clouds.
 - **Cancer Diagnosis**: Employing topological techniques to improve cancer diagnosis from histopathological images.
