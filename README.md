@@ -51,6 +51,8 @@ We provide case studies from several domains that demonstrate how **Topological 
 - **Cancer Diagnosis**: Employing topological techniques to improve cancer diagnosis from histopathological images.
 - **Drug Discovery**: Applying **Multiparameter Persistence** to drug discovery tasks.
 
+## Slides
+We do not yet have the slides for the tutorial, but we used this [slide deck](https://github.com/cakcora/TopologyForML/blob/main/AkcoraUnified.pptx) for a previous tutorial on Topology and Graphs.
 ## References
 
 For further reading, please refer to:
